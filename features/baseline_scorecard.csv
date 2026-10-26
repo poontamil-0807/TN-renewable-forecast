@@ -1,0 +1,9 @@
+target,horizon_h,baseline,MAE,RMSE
+wind_cf,24,persistence,0.1166,0.1795
+wind_cf,24,seasonal,0.1751,0.2562
+wind_cf,48,persistence,0.1369,0.2049
+wind_cf,48,seasonal,0.1749,0.2565
+solar_cf,24,persistence,0.0306,0.0738
+solar_cf,24,seasonal,0.0401,0.0924
+solar_cf,48,persistence,0.0347,0.0815
+solar_cf,48,seasonal,0.0401,0.0925

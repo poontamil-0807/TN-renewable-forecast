@@ -1,0 +1,11 @@
+,0
+hour_cos,0.7400963
+solar_cf_lag24,0.17325449
+solar_cf_lag48,0.031240359
+solar_cf_lag168,0.012487004
+solar_cf_lag1,0.005306214
+month_sin,0.0046894494
+month,0.00284579
+solar_cf_roll24,0.0025617587
+hour,0.002240305
+month_cos,0.0020212177

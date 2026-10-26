@@ -1,0 +1,5 @@
+target,horizon_h,n_train,n_test,model_MAE,model_RMSE,baseline_MAE,baseline_RMSE,MAE_improvement_%
+wind_cf,24,104619,20373,0.1109,0.1583,0.1166,0.1795,4.9
+wind_cf,48,104619,20301,0.1271,0.1763,0.1369,0.2049,7.2
+solar_cf,24,104619,20373,0.0284,0.0616,0.0306,0.0738,7.2
+solar_cf,48,104619,20301,0.0306,0.0645,0.0347,0.0815,11.8

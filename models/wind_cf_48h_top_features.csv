@@ -1,0 +1,11 @@
+,0
+wind_cf_lag1,0.4337618
+wind_cf_lag2,0.12944143
+wind_cf_lag24,0.051908623
+monsoon,0.04653263
+wind_cf_roll24,0.03627212
+wind_cf_lag168,0.028137708
+month_cos,0.026433831
+wind_cf_lag48,0.022789875
+hour_cos,0.020720927
+month_sin,0.015522214

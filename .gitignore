@@ -3,13 +3,6 @@ venv/
 __pycache__/
 *.pyc
 
-# Generated data (regenerable via scripts, often large)
-cache/
-data/
-features/
-models/
-green_hours_out/
-
 # OS/editor files
 .DS_Store
 .vscode/
